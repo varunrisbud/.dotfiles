@@ -1,0 +1,5 @@
+.dotfiles
+.zcompdump*
+.zsh_history
+.histfile
+.viminfo
