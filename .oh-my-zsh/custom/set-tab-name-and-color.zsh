@@ -2,8 +2,8 @@
 declare -A shortNames
 shortNames=( mylar M preview-mylar PM opal O bos B dal D cmh C)
 
-# hn=$(hostname)
-hn="seam01.mylar.dal.sync.lan"
+hn=$(hostname)
+# hn="seam01.mylar.dal.sync.lan"
 
 a=(${(s:.:)hn})
 
